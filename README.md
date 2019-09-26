@@ -1,1 +1,3 @@
 # practice
+nexus
+sonarqube
