@@ -2,3 +2,4 @@
 nexus
 sonarqube
 webhook
+seccess
